@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send-email-using-web-mail-in-csharp", "Send-email-using-web-mail-in-csharp\Send-email-using-web-mail-in-csharp.csproj", "{68FFEC50-8129-4F27-B6F4-06A5E91721C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FFEC50-8129-4F27-B6F4-06A5E91721C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FFEC50-8129-4F27-B6F4-06A5E91721C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FFEC50-8129-4F27-B6F4-06A5E91721C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FFEC50-8129-4F27-B6F4-06A5E91721C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6AA1DE4-C5DE-4551-AF1B-5EAF3ABD54E2}
+	EndGlobalSection
+EndGlobal
